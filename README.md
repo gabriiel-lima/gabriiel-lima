@@ -9,4 +9,42 @@
   <p>Software student at 42 Porto</p>
 
 </body>
-</html>
+</html><div align="center">
+
+  <h1> They call me Gabriel </h1>
+
+  <p><strong>Software Engineer | C | 42 School</strong></p>
+
+  <!-- Social Buttons -->
+  <p>
+    <a href="https://www.linkedin.com/in/gabriel-lima-a7727b310/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/About.png" width="300px"/>
+
+I graduated from high school in Management and Programming of Computer Systems and am currently studying at School 42, focusing on low-level programming fundamentals in C.
+
+I’m drawn to understanding how systems behave beneath abstraction — how software interacts with memory, hardware, and constraints.
+
+---
+
+<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Interests.png" width="300px"/>
+
+
+- Embedded systems  
+- Cybersecurity  
+- Mobile Development  
+
+---
+
+<div align="center">
+
+If you stare at the bug for too long, the bug stares back at you…
+
+</div>
