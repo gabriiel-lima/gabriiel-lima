@@ -2,7 +2,7 @@
 
   <h1> They call me Gabriel </h1>
 
-  <p><strong>Software Engineer | C | 42 School</strong></p>
+  <p><strong> 🔸 Software Engineer | C | 42 School 🔸 </strong></p>
 
   <!-- Social Buttons -->
   <p>
@@ -19,12 +19,10 @@
 
 I graduated from high school in Management and Programming of Computer Systems and am currently studying at School 42, focusing on low-level programming fundamentals in C.
 
-I’m drawn to understanding how systems behave beneath abstraction — how software interacts with memory, hardware, and constraints.
 
----
+
 
 <img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Interests%20-%20Editado.png" width="300px"/>
-
 
 - Embedded systems  
 - Cybersecurity  
