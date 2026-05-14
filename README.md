@@ -1,12 +1,3 @@
-<head>
-  <meta charset="UTF-8">
-  <title>Gabriel Lima - GitHub</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6;">
-
-  <p>Software student at 42 Porto</p>
-
-</body>
 </html><div align="center">
 
   <h1> They call me Gabriel </h1>
