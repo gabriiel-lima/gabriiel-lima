@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/About.png" width="300px"/>
+<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/About%20-%20Editado.png" width="300px"/>
 
 I graduated from high school in Management and Programming of Computer Systems and am currently studying at School 42, focusing on low-level programming fundamentals in C.
 
@@ -23,7 +23,7 @@ I’m drawn to understanding how systems behave beneath abstraction — how soft
 
 ---
 
-<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Interests.png" width="300px"/>
+<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Interests%20-%20Editado.png" width="300px"/>
 
 
 - Embedded systems  
