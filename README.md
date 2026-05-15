@@ -1,6 +1,6 @@
 </html><div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED7C01&center=true&width=435&lines=They+call+me+Gabriel" alt="Typing SVG" /></a>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ED7C01&center=true&width=435&lines=They+call+me+Gabriel" alt="Typing SVG" /></a></h1>
 
   <p><strong> 🔸 Software Engineer | C | 42 School 🔸 </strong></p>
 
