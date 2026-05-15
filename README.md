@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/About%20-%20Editado.png" width="300px"/>
+<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Frame%201.png" width="300px"/>
 
 I graduated from high school in Management and Programming of Computer Systems and am currently studying at School 42, focusing on low-level programming fundamentals in C.
 
