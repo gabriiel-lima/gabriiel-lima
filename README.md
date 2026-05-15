@@ -22,7 +22,7 @@ I graduated from high school in Management and Programming of Computer Systems a
 
 
 
-<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Interests%20-%20Editado.png" width="300px"/>
+<img src="https://github.com/gabriiel-lima/gabriiel-lima/blob/main/Frame%202.png" width="300px"/>
 
 - Embedded systems  
 - Cybersecurity  
