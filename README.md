@@ -21,7 +21,6 @@ I graduated from high school in Management and Programming of Computer Systems a
 - Cybersecurity  
 - Mobile Development  
 
----
 
 <div align="center">
 
